@@ -4,8 +4,7 @@
   <img src="https://github.com/user-attachments/assets/69ab57b3-a5b9-49e9-93d2-29c056ff4517" alt="KafkaBannerGIF" width="90%">
 </div>
 <div align="center">
-  <h2>====== 𝓚𝕒𝗳𝒌𝕒 ======</h2>
-  <hr style="border: none; border-top: 2px solid black; width: 100%;">
+  <h2>========= 𝓚𝕒𝗳𝒌𝕒 =========</h2>
 </div>
 <br>
 
@@ -13,7 +12,7 @@
 - 👀 I’m interested in Game develop
 - 🌱 I’m currently learning C, C++, C#, Java, html, Javascript
 <p> Chán💚💚💚</p>
-
+◉_◉
 
 <!---
 vquang31/vquang31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
