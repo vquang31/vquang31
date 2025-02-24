@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/69ab57b3-a5b9-49e9-93d2-29c056ff4517" alt="KafkaBannerGIF" width="90%">
 </div>
+<div align="center">
+  <hr style="border: none; border-top: 2px solid black; width: 100%;">
+</div>
 <br>
 
 - 👋 Hi, I’m @vquang31 or NotSusan
