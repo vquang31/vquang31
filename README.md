@@ -1,8 +1,9 @@
 ◉_◉
 <br>
 
-![KafkaBannerGIF](https://github.com/user-attachments/assets/69ab57b3-a5b9-49e9-93d2-29c056ff4517)
-
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/69ab57b3-a5b9-49e9-93d2-29c056ff4517" alt="KafkaBannerGIF">
+</div>
 ◉_◉
 
 - 👋 Hi, I’m @vquang31 or NotSusan
