@@ -1,10 +1,7 @@
 ◉_◉
 <br>
 
-
-![DogelonDogelonmarsGIF](https://github.com/user-attachments/assets/2fdbdfa0-259a-4c3e-84ad-9e5e51863ff0)
-
-
+![KafkaBannerGIF](https://github.com/user-attachments/assets/69ab57b3-a5b9-49e9-93d2-29c056ff4517)
 
 ◉_◉
 
