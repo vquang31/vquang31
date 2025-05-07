@@ -1,7 +1,8 @@
 
-
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/69ab57b3-a5b9-49e9-93d2-29c056ff4517" alt="KafkaBannerGIF" width="90%">
+  <img src="https://github.com/user-attachments/assets/1bd43067-fa33-4050-8174-f615c8e157e7" alt="KafkaBannerGIF" width="90%">
+
+
 </div>
 <div align="center">
   <h2>========= 𝓚𝕒𝗳𝒌𝕒 =========</h2>
